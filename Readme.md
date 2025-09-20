@@ -1,3 +1,8 @@
+-=(Arcadia_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Emerson Arcadia 2001 game console
 
 ## General description
@@ -6,6 +11,7 @@ This chipset was used in many game consoles such as :
 
 - Emerson Arcadia 2001
 - MPT-03
+
 
 
 
